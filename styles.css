@@ -1,5 +1,15 @@
+body{
+    margin: 0;
+    pdding: 0;
+    font-family: Arial,sans-serif;
+}
 header{
     background-color:#ffb6c1;
+    color: #fff;
+    pdding: 10;
+    display: flex;
+    justify-coytent: space-between;
+    aling-items: center;
 }
 
 .logo jpg{
@@ -10,7 +20,8 @@ header{
 nav ul{
     list-style: none;
     margin: 0;
-    padding: 20px;
+    padding: 0;
+    display: flex;
 }
 
 nav a{
