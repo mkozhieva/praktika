@@ -3,7 +3,7 @@ header{
 }
 
 .logo jpg{
-    max-width: 100%;
+    max-width: 40%;
     height: auto;
 }
 
@@ -23,4 +23,8 @@ nav a{
 a:hover{
     color: #ff1493;
     text-decoration: none;
+}
+
+li{
+    display: inline;
 }
