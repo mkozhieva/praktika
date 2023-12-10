@@ -25,12 +25,7 @@ header {
     display: inline;
     margin-right: 10px;
   font-size: 24px;
-    }
-
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
+ }
 
 nav a {
     color: #fff;
